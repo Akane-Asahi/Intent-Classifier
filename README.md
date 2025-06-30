@@ -5,7 +5,7 @@
 
 ## 🚀 Getting Started
 
-### 1. Open the notebook in Google Colab
+1. Open the notebook in Google Colab
 
 <p align="left">
   <a href="https://colab.research.google.com/drive/1Cg9KvaqDgamkh3gTeKKOq_4XpOXp5_hp?usp=sharing">
