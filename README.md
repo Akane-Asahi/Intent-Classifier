@@ -37,17 +37,33 @@ This project becomes the **brain** of my chatbot:
 
 This is the third step in building an explainable, ethical AI system for Islamic knowledge applications:
 
-<a href="https://github.com/Akane-Asahi/Text-Classification-Islamic-vs-Non-Islamic-Content">
-  <img src="https://img.shields.io/badge/Project_1-Text_Classification-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
-</a>  
+<div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;">
+  <h2 style="color: #2c3e50;">🔬 My AI Research Roadmap</h2>
+  
+  <p style="color: #34495e; margin-bottom: 20px;">
+    This is the third step in building an explainable, ethical AI system for Islamic knowledge applications:
+  </p>
 
-<a href="https://github.com/Akane-Asahi/Qur-an-Hadith-semantic-search-QA-retrieval-">
-  <img src="https://img.shields.io/badge/🔎 Project_2-Qur’an_&_Hadith_semantic_search_(QA_retrieval)-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
-</a>  
+  <div style="margin-bottom: 15px;">
+    <a href="https://github.com/Akane-Asahi/Text-Classification-Islamic-vs-Non-Islamic-Content" style="text-decoration: none;">
+      <span style="display: inline-block; background-color: #3498db; color: white; padding: 8px 12px; border-radius: 4px; font-weight: bold;">
+        PROJECT 1: TEXT CLASSIFICATION
+      </span>
+    </a>
+  </div>
 
-🧠 Project 3: You are here ..  
-🧩 Project 4: Build a rule-based + ML-based chatbot engine  
-🤖 Project 5: Fine-tune LLMs on faith-aligned data (e.g., FaithDial)  
+  <div style="margin-bottom: 15px;">
+    <a href="https://github.com/Akane-Asahi/Qur-an-Hadith-semantic-search-QA-retrieval-" style="text-decoration: none;">
+      <span style="display: inline-block; background-color: #3498db; color: white; padding: 8px 12px; border-radius: 4px; font-weight: bold;">
+        🔎 PROJECT 2: QUR'AN & HADITH SEMANTIC SEARCH (QA RETRIEVAL)
+      </span>
+    </a>
+  </div>
+
+  <div style="margin-bottom: 10px; color: #2c3e50; font-weight: bold;">🧠 Project 3: You are here ..</div>
+  <div style="margin-bottom: 10px; color: #2c3e50; font-weight: bold;">🧩 Project 4: Build a rule-based + ML-based chatbot engine</div>
+  <div style="margin-bottom: 10px; color: #2c3e50; font-weight: bold;">🤖 Project 5: Fine-tune LLMs on faith-aligned data (e.g., FaithDial)</div>
+</div>
 
 ## 🤝 Author & Motivation
 Built by Telot as part of a personal and academic journey to explore the intersection of:
