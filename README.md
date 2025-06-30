@@ -40,6 +40,7 @@ This is the third step in building an explainable, ethical AI system for Islamic
 <a href="https://github.com/Akane-Asahi/Text-Classification-Islamic-vs-Non-Islamic-Content">
   <img src="https://img.shields.io/badge/Project_1-Text_Classification-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
 </a>    
+
 <a href="https://github.com/Akane-Asahi/Qur-an-Hadith-semantic-search-QA-retrieval-">
   <img src="https://img.shields.io/badge/🔎 Project_2-Qur’an_&_Hadith_semantic_search_(QA_retrieval)-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
 </a>      
