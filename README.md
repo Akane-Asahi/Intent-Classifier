@@ -5,7 +5,14 @@
 
 ## 🚀 Getting Started
 
-1. Run the Google Colab notebook
+### 1. Open the notebook in Google Colab
+
+<p align="left">
+  <a href="https://colab.research.google.com/drive/1Cg9KvaqDgamkh3gTeKKOq_4XpOXp5_hp?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150"/>
+  </a>
+</p>
+
 2. Upload `intent_data.csv` when prompted
 3. Train the model and test queries
 4. Try your own inputs like:
