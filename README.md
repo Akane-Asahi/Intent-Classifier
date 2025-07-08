@@ -18,6 +18,17 @@
 
 ---
 
+## Result
+
+Here is the Intent Prediction sample showing how different intentions of a similar subject are caught up successfully with this system  
+
+![Intention Prediction in Live](Intention_Prediction.png)  
+
+Here is the confusion matrix showing the model's performance:  
+
+![Confusion Matrix](confusion_matrix.png)  
+
+
 ## 📚 What I Learned
 
 - How to build an **intent classifier** for faith-oriented dialogue
