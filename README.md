@@ -24,7 +24,7 @@ Here is the Intent Prediction sample showing how different intentions of a simil
 
 ![Intention Prediction in Live](Intention_Prediction.png)  
 
-Here is the confusion matrix showing the model's performance based on 5000 dataset:  
+Here is the confusion matrix showing the model's performance based on `5000 dataset`:  
 
 ![Confusion Matrix](confusion_matrix.png)  
 
