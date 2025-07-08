@@ -13,12 +13,8 @@
   </a>
 </p>
 
-2. Upload `intent_data.csv` when prompted
-3. Train the model and test queries
-4. Try your own inputs like:
-   - “Is hijab mandatory?”
-   - “Give me a hadith about smiling”
-   - “Salaam!”
+2. Click Run All Button
+3. And Ask any question to see if it can predict your intention!
 
 ---
 
