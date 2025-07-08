@@ -20,7 +20,7 @@
 
 ## Result
 
-Here is the Intent Prediction sample showing how different intentions of a similar subject are caught up successfully with this system  
+Here is the Intent Prediction sample showing how different intentions of a similar subject are caught up successfully with this system: Subject was: `  Giving Money to the poor  `  
 
 ![Intention Prediction in Live](Intention_Prediction.png)  
 
